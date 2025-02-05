@@ -1,1 +1,0 @@
-import{_ as o,c as n,a as r,o as s}from"./index-AVZCTOjW.js";const a={};function d(t,e){return s(),n("div",null,e[0]||(e[0]=[r("div",{class:"border border-danger p-3 rounded"},[r("h5",null,"我是內層")],-1)]))}const l=o(a,[["render",d]]);export{l as default};

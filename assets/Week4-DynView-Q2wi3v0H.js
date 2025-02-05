@@ -1,0 +1,1 @@
+import{u as o,c as t,a as e,t as a,b as n,o as u}from"./index-gPqCN_w2.js";const c={class:"border border-success p-3 rounded"},_={__name:"Week4-DynView",setup(d){const r=o().params.id;return(i,s)=>(u(),t("div",null,[e("div",c,[s[0]||(s[0]=e("h5",null,"我是動態路由",-1)),e("div",null,"ID:"+a(n(r)),1)])]))}};export{_ as default};

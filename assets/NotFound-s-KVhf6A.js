@@ -1,1 +1,0 @@
-import{d as t,e as s,c as r,a,o as n}from"./index-AVZCTOjW.js";const u={class:"border p-3"},_={__name:"NotFound",setup(c){const o=s();return t(()=>{setTimeout(()=>{o.push("/")},3e3)}),(d,e)=>(n(),r("div",u,e[0]||(e[0]=[a("h2",null,"404，3秒後跳轉到首頁",-1)])))}};export{_ as default};
